@@ -8,8 +8,8 @@ Install dependencies using `yarn` (or `npm`):
 
 ```bash
 $ cd ../BookstoreServer
-$ yarn       # npm install
-$ yarn dev   # npm run dev
+$ yarn        # npm install
+$ yarn start  # npm run start
 ```
 
 ## Usage
