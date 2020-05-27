@@ -1,4 +1,4 @@
-# Bookstore Server
+# Start GraphQL
 
 A simple server side application that uses GraphQL to manage Authors and Books data.
 
