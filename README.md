@@ -7,9 +7,9 @@ A simple server side application that uses GraphQL to manage Authors and Books d
 Install dependencies using `yarn` (or `npm`):
 
 ```bash
-$ cd ../BookstoreServer
+$ cd ../StartGraphql
 $ yarn        # npm install
-$ yarn start  # npm run start
+$ yarn start  # npm start
 ```
 
 ## Usage
